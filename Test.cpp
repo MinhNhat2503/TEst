@@ -59,6 +59,7 @@ ostream& operator << (ostream &os,const SV &sv){
 	os<<sv.Anh;
 	return os;
 }
+đaadadfjiwnef
 void Nhap(SV sv[], int n){
     for(int i=0; i<n; i++)
     cin>>sv[i];
