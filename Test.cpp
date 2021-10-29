@@ -13,7 +13,7 @@ class SV{
         friend void SapXepDTB(SV sv[], int n);
         friend void SapXepTen(SV sv[], int n);
         friend void ThongKe(SV sv[], int n);
-       		
+  abcde     		
 };
 
  istream& operator >> (istream &is, SV &sv){
